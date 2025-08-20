@@ -9,15 +9,15 @@
   "saveState": true,
   "banMsg": false,
   "adminOnlyMsg": false,
-  "BOTNAME": "Joy-bot",
-  "PREFIX": ".",
+  "BOTNAME": "জাঁতিঁরঁ-ভঁন্ডঁ বঁটঁ 🙈📌",
+  "PREFIX": "+",
   "react": "☠️",
   "OPERATOR": [
     "",
     "100001435123762"
   ],
   "ADMINBOT": [
-    "100001435123762",
+    "61574774314679",
     ""
   ],
   "OWNER": ["100001435123762"], 
